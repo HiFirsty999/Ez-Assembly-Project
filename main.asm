@@ -1,3 +1,5 @@
+;Using x86
+
 section .data
   txt db "Hello, world!", 0xa
   txtlen equ $ - txt
